@@ -1,0 +1,19 @@
+.project{
+  width: 50vh; 
+  height: 50vh;
+  background-color: azure;
+  
+}
+.picture{
+  height: 250px;
+  width: 100%;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.projectDes{
+  word-break: break-all;
+  text-align: start;
+  
+}
