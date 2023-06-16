@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Matthewdeveloper1.github.io/PortfolioCSS/static/css/main.2b52fecb.css",
-    "main.js": "/Matthewdeveloper1.github.io/PortfolioCSS/static/js/main.80fd6ecc.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Matthewdeveloper1.github.io/PortfolioCSS/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Matthewdeveloper1.github.io/PortfolioCSS/index.html",
-    "main.2b52fecb.css.map": "/Matthewdeveloper1.github.io/PortfolioCSS/static/css/main.2b52fecb.css.map",
-    "main.80fd6ecc.js.map": "/Matthewdeveloper1.github.io/PortfolioCSS/static/js/main.80fd6ecc.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Matthewdeveloper1.github.io/PortfolioCSS/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/PortfolioCSS/static/css/main.2b52fecb.css",
+    "main.js": "/PortfolioCSS/static/js/main.491427ec.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PortfolioCSS/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/PortfolioCSS/index.html",
+    "main.2b52fecb.css.map": "/PortfolioCSS/static/css/main.2b52fecb.css.map",
+    "main.491427ec.js.map": "/PortfolioCSS/static/js/main.491427ec.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PortfolioCSS/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b52fecb.css",
-    "static/js/main.80fd6ecc.js"
+    "static/js/main.491427ec.js"
   ]
 }
