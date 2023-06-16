@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Matthewdeveloper1/PortfolioCSS.git/static/css/main.2b52fecb.css",
-    "main.js": "/Matthewdeveloper1/PortfolioCSS.git/static/js/main.e5c2fbdf.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Matthewdeveloper1/PortfolioCSS.git/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Matthewdeveloper1/PortfolioCSS.git/index.html",
-    "main.2b52fecb.css.map": "/Matthewdeveloper1/PortfolioCSS.git/static/css/main.2b52fecb.css.map",
-    "main.e5c2fbdf.js.map": "/Matthewdeveloper1/PortfolioCSS.git/static/js/main.e5c2fbdf.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Matthewdeveloper1/PortfolioCSS.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Matthewdeveloper1/PortfolioCSS/static/css/main.2b52fecb.css",
+    "main.js": "/Matthewdeveloper1/PortfolioCSS/static/js/main.45cbc7a6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Matthewdeveloper1/PortfolioCSS/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Matthewdeveloper1/PortfolioCSS/index.html",
+    "main.2b52fecb.css.map": "/Matthewdeveloper1/PortfolioCSS/static/css/main.2b52fecb.css.map",
+    "main.45cbc7a6.js.map": "/Matthewdeveloper1/PortfolioCSS/static/js/main.45cbc7a6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Matthewdeveloper1/PortfolioCSS/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b52fecb.css",
-    "static/js/main.e5c2fbdf.js"
+    "static/js/main.45cbc7a6.js"
   ]
 }
