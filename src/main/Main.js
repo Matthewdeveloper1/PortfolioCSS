@@ -1,6 +1,7 @@
 
 import sContainer from  '../common/styles/Container.module.css'
 import style from './Main.module.scss'
+import myPhoto from '../assets/image/Matthew.png'
 
 function Main() {
   return (
@@ -11,7 +12,9 @@ function Main() {
           <h1>I am Matthew Helich</h1>
           <p>Frontend developer</p>
         </div>
-        <div className={style.photo}>photo</div>
+        <div className={style.photo}>
+          <img src={myPhoto} alt='фото'/>
+        </div>
       </div>
     </div>
   );

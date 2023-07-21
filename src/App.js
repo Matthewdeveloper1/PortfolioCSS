@@ -1,6 +1,7 @@
 
 import './App.css';
 import Contacts from './contacts/Contacts';
+import Footer from './footer/footer';
 import Header from './header/Header';
 import Main from './main/Main';
 import Nav from './nav/Nav';
@@ -15,6 +16,7 @@ function App() {
       <Skills/>
       <Projects/>
       <Contacts/>
+      <Footer/>
     </div>
   );
 }

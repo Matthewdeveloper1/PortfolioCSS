@@ -19,6 +19,8 @@ function Contacts() {
       </div>
     </div>
   );
+  
 }
+
 
 export default Contacts; 
