@@ -1,28 +1,23 @@
-import style from './Skills.module.css'
+import style from './Skills.module.scss'
 import sContainer from  '../common/styles/Container.module.css'
 import Skill from './skill/Skill';
+import Title from '../common/components/title/Title';
 
 function Skills() {
   return (
     <div className = {style.skillsBlock}>
       <div className = {`${sContainer.container} ${style.skillsContainer}`}>
-        <h2 className={style.title}>Skills</h2>
+        <Title text = {'Skills'}/>
         <div className={style.skills}>
           <Skill title = {'Js'} description = {
-            'lasdklsakdklasdk'
+            'HTML'
           }/>
           <Skill title = {'React'} description = {
-            'lasdklsakdklasdk'
+            'CSS'
           }/>
           <Skill title = {'HTML'} description = {
-            'lasdklsakdklasdk'
+            'JS'
           }/>
-          {/* <Skill title = {'CSS'} description = {
-            'lasdklsakdklasdk'
-          }/>
-          <Skill title = {'Redux'} description = {
-            'lasdklsakdklasdk'
-          }/> */}
         </div>
       </div>
     </div>

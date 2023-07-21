@@ -1,21 +1,24 @@
+@import '../common/styles/sass/variables.scss';
+
 .skillsBlock{
    height: 100vh;
-   background-color: aquamarine;
+   background-color: $bgColor ;
 }
 
 .skillsContainer{
    align-items: center;
    flex-direction: column;
    justify-content: flex-start;
+   
 
 }
 .title{
-  background-color: gray;
+  background-color: $bgSecondColor;
 }
 .skills{
   width: 100%;
   border: 1px solid;
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
+  flex-wrap: wrap;  
 }

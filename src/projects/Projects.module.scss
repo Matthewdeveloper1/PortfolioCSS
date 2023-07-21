@@ -1,0 +1,27 @@
+@import '../common/styles/sass/variables.scss';
+.projects{
+  background-color: $bgColor;
+}
+
+.skillsContainer{
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+
+}
+.projectsList{
+ width: 100%;
+ border: 1px solid;
+ display: flex;
+ justify-content: space-between;
+ align-self: flex-end;
+ flex-wrap: wrap;
+ margin-top: 30px;
+ align-items: flex-start;
+}
+
+@media screen and (max-width: 1129px) {
+  .projectsList{
+    justify-content: space-between; 
+  }
+}

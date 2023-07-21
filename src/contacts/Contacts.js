@@ -1,5 +1,6 @@
-import style from './Contacts.module.css'
+import style from './Contacts.module.scss'
 import sContainer from '../common/styles/Container.module.css'
+import Title from '../common/components/title/Title';
 
 
 function Contacts() {
@@ -7,7 +8,7 @@ function Contacts() {
     <div className={style.contacts}>
       <div className={`${sContainer.container} ${style.contactsContainer}`}>
         <div className={style.contactsBlock}>
-          <div>Contacts</div>
+          <Title text = {'Contacts'}/>
           <div className={style.info}>
             <input placeholder='company name' />
             <input placeholder='email' />

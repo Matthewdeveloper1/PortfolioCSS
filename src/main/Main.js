@@ -1,6 +1,6 @@
 
 import sContainer from  '../common/styles/Container.module.css'
-import style from './Main.module.css'
+import style from './Main.module.scss'
 
 function Main() {
   return (
