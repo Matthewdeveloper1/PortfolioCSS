@@ -12,7 +12,7 @@ function Contacts() {
           <div className={style.info}>
             <input placeholder='company name' />
             <input placeholder='email' />
-            <textarea placeholder='description' />
+            <textarea placeholder='description' style={{ resize: "none" }}/>
           </div>
           <button className={style.btn}>send</button>
         </div>
